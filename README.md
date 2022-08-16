@@ -6,11 +6,14 @@
    <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" alt="Coder GIF" width="500">
    </abc>
 </h1>
-  <!-- <hr> -->
   <h2>Skills</h2>
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="40" height="40"/>
+          <!-- <small>Javascript</small> -->
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/>
           <!-- <small>Javascript</small> -->
         </a>
         <a href="https://reactjs.org/" target="_blank">
@@ -27,28 +30,36 @@
         </a>
       </p>
       <p align="center">    
+        <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
+          <!-- <span>HTML</span> -->
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
+          <!-- <span>CSS</span> -->
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/>
+          <!-- <span>CSS</span> -->
+        </a>
         <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
           <!-- <span>MySql</span> -->
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-          <!-- <span>CSS</span> -->
         </a>
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
           <!-- <span>Git</span> -->
         </a>
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-          <!-- <span>HTML</span> -->
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+          <!-- <span>PostgreSql</span> -->
         </a>
         <a href="https://expressjs.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
           <!-- <span>Express</span> -->
         </a>
         <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="postgresql" width="40" height="40"/>
           <!-- <span>PostgreSql</span> -->
         </a>
       </p>
@@ -65,22 +76,17 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
           <!-- <span>Bootstrap</span> -->
         </a>
-        <a href="https://www.java.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-          <!-- <span>Java</span> -->
-        </a>
       </p>
-  <!-- <hr> -->
+  <hr>
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - 📚 Graduado del bootcamp de SoyHenry como Full-stack developer
-   - 🎨 Me oriento mas hacia el frontend
-   - 🌱 Aprendí Typescript de forma autodidacta
-   - 👁‍🗨 Estoy aprendiendo NextJS
-   - 🛒 Me desempeñé como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
+   - 📚 Graduated from the bootcamp SoyHenry as Full-stack developer.
+   - 🎨 Mainly doing Front-end development.
+   - 🛒 I formed part of a project of an e-commerce for my bootcamp as a Front-end developer
+   - 🌱 Right now perfecting my skills in TypeScript in a personal project.
 
-<h2 align="left">💌 Let's get connected:</h2>
+<h2 align="left">💌 Contact me:</h2>
 
 ### 👩‍💻 [LinkedIn] https://www.linkedin.com/in/tomasborquez/
 
