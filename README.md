@@ -37,7 +37,7 @@
 
 <h2 align="left">💌 Let's get connected:</h2>
 
-### 👩‍💻 [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
+### 👩‍💻 [LinkedIn] https://www.linkedin.com/in/agostina-gavilan-283a03209/
 
 ### 📩 [E-Mail] agosgavilan3@gmail.com
 
