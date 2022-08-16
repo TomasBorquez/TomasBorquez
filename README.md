@@ -9,29 +9,7 @@
    <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" alt="Coder GIF" width="500">
    </abc>
 </h1>
-  <h1 align="center">Hello there, I'm Magui Lococo</h1>
-  <h3 align="center">Full Stack Developer from Argentina 🧉</h3>
-  <hr>
-  <img align="right" src="./Studying-bro.svg" alt="me" width="340" height="340"/>
 
-- 🧩 Check out my last project -> **[My House App](https://my-house-app-one.vercel.app/)** --> repository [client](https://github.com/myhouseapp/client) & [server](https://github.com/my-house-app/api)
-
-- 🌱 I’m learning **[Java](https://www.java.com)**
-
-- ⚡ Fun fact -> **I love animals and I think [meerkats](https://www.youtube.com/watch?v=W4og8g_X22o) kind of describe me:** <br /> tiny, active & social
-  <br>
-
-  <h3>Reach me at </h3>
-  <p align="left">
-  <a href="magdalenalococo@gmail.com">
-    <img align="center" src="https://img.icons8.com/carbon-copy/100/000000/new-post.png" height="45" width="45" >
-  </a>
-  <a href="https://linkedin.com/in/magdalenalococo" target="blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="magdalenalococo" height="30" width="40" /></a>
-  <a href="https://github.com/maguilococo" target="blank"><img align="center" src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="magdalenalococo" height="30" width="40" /></a>
-  </p>
-  magdalenalococo@gmail.com
-
-  <br>
   <hr>
   <h2>Skills</h2>
       <p align="center">
