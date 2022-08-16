@@ -3,7 +3,7 @@
   <br>🍓Hello! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> I'm Tomas Borquez Full Stack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   <br>
-   <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" alt="Coder GIF" width="500">
+   <img src="https://media.discordapp.net/attachments/706958964126122014/1009180963894472774/215911.gif?width=550&height=463" alt="Coder GIF" width="500">
    </abc>
 </h1>
   <h2>Skills</h2>
@@ -20,13 +20,13 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
           <!-- <small>React</small> -->
         </a>
-        <a href="https://nodejs.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-          <!-- <span>Node.js</span> -->
-        </a>
         <a href="https://redux.js.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
           <!-- <span>Redux</span> -->
+        </a>
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="postgresql" width="40" height="40"/>
+          <!-- <span>PostgreSql</span> -->
         </a>
       </p>
       <p align="center">    
@@ -42,25 +42,25 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/>
           <!-- <span>CSS</span> -->
         </a>
-        <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <!-- <span>MySql</span> -->
-        </a>
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-          <!-- <span>Git</span> -->
-        </a>
-        <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-          <!-- <span>PostgreSql</span> -->
+        <a href="https://nodejs.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+          <!-- <span>Node.js</span> -->
         </a>
         <a href="https://expressjs.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
           <!-- <span>Express</span> -->
         </a>
+        <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <!-- <span>MySql</span> -->
+        </a>
         <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="postgresql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
           <!-- <span>PostgreSql</span> -->
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          <!-- <span>Git</span> -->
         </a>
       </p>
       <p align="center">      
