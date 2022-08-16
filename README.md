@@ -6,7 +6,7 @@
    <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" alt="Coder GIF" width="500">
    </abc>
 </h1>
-  <hr>
+  <!-- <hr> -->
   <h2>Skills</h2>
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -70,7 +70,7 @@
           <!-- <span>Java</span> -->
         </a>
       </p>
-  <hr>
+  <!-- <hr> -->
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
