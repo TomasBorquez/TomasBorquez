@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=AgosGavilan" alt="https://github.com/AgosGavilan" />
+<!-- <img src="https://komarev.com/ghpvc/?username=AgosGavilan" alt="https://github.com/AgosGavilan" /> -->
 
 <h1 align="center">
  <abc>
