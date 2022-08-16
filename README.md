@@ -39,6 +39,6 @@
 
 ### 👩‍💻 [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
 
-### 📩 [E-Mail](mailto:agosgavilan3@gmail.com)
+### 📩 [E-Mail] agosgavilan3@gmail.com
 
 Puedes preguntarme lo que sea. Deseo absorber conocimientos🧠,ganar experiencias 🏭, colaborar🤝 y construir productos asombrosos 🏭para el mundo🌍!
