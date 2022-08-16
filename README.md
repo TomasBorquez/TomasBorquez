@@ -1,4 +1,3 @@
-![](https://badges.pufler.dev/visits/AgosGavilan/AgosGavilan?color=black&logo=github&style=flat-square)
 <img src="https://komarev.com/ghpvc/?username=AgosGavilan" alt="https://github.com/AgosGavilan" />
 
 <h1 align="center">
