@@ -81,7 +81,7 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - 📚 Graduated from the bootcamp SoyHenry as Full-stack developer.
+   - 📚 Currently working at Affable.ai as a full stack developer
    - 🎨 Mainly doing Front-end development.
    - 🛒 I formed part of a project of an e-commerce for my bootcamp as a Front-end developer
    - 🌱 Right now perfecting my skills in TypeScript in a personal project.
