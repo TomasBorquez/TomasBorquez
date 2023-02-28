@@ -28,10 +28,6 @@
           <img src="https://ngrx.io/assets/images/badge.svg" alt="redux" width="40" height="40"/>
           <!-- <span>Redux</span> -->
         </a>
-        <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="postgresql" width="40" height="40"/>
-          <!-- <span>PostgreSql</span> -->
-        </a>
       </p>
       <p align="center">    
         <a href="https://www.w3.org/html/" target="_blank">
