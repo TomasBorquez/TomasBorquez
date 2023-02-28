@@ -3,7 +3,7 @@
   <br>👨‍🚀Hello! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> I'm Tomas Borquez Full Stack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   <br>
-   <img src="https://i.pinimg.com/originals/7b/10/6f/7b106f7be5512c2c09d29b3ed1c2ef45.gif" alt="Coder GIF" width="500">
+   <img src="https://media.licdn.com/dms/image/D4D16AQGO432MI_8qPA/profile-displaybackgroundimage-shrink_350_1400/0/1677362373185?e=1683158400&v=beta&t=8GzwK83qOcGbrP9zFLYpdixOHSFsVqDPqp6DJVO_Qpw" alt="Coder GIF" width="500">
    </abc>
 </h1>
   <h2>Skills</h2>
@@ -81,10 +81,8 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - 📚 Currently working at Affable.ai as a full stack developer
-   - 🎨 Mainly doing Front-end development.
-   - 🛒 I formed part of a project of an e-commerce for my bootcamp as a Front-end developer
-   - 🌱 Right now perfecting my skills in TypeScript in a personal project.
+💼 Full-stack developer at Affable.ai, a startup specializing in Influencer Marketing Platforms
+I specialize in front-end development with Angular 🅰 and NestJS🦁 on the backend. Experience in creating user-friendly and visually appealing web applications 🌟
 
 <h2 align="left">💌 Contact me:</h2>
 
