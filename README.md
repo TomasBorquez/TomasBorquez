@@ -40,7 +40,7 @@
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/>
-          <!-- <span>CSS</span> -->
+          <!-- <span>SCSS</span> -->
         </a>
         <a href="https://nodejs.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -58,23 +58,27 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
           <!-- <span>PostgreSql</span> -->
         </a>
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-          <!-- <span>Git</span> -->
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3521676-2945120.png" alt="git" width="40" height="40"/>
+          <!-- <span>MongoDB</span> -->
         </a>
       </p>
       <p align="center">      
         <a href="https://sequelize.org/" target="_blank">
           <img src="https://camo.githubusercontent.com/319ef78fa108fc000a838b6566c3dc6bb6f352c590661da03b50f1ce0d0db6d5/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f73657175656c697a652d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d326563353339" alt="sqlite" width="40" height="40"/>
           <!-- <span>Sequelize</span> -->
-        </a> 
-        <a href="https://www.sqlite.org/" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-          <!-- <span>SQLite</span> -->
-        </a>                                                                                                            
-        <a href="https://getbootstrap.com" target="_blank">
+        </a>                                                                                                  
+        <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-          <!-- <span>Bootstrap</span> -->
+          <!-- <span>TailwindCSS</span> -->
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="git" width="40" height="40"/>
+         <!-- <span>Git</span> -->
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+         <!-- <span>Git</span> -->
         </a>
       </p>
    
