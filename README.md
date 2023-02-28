@@ -81,8 +81,8 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-💼 Full-stack developer at Affable.ai, a startup specializing in Influencer Marketing Platforms
-I specialize in front-end development with Angular 🅰 and NestJS🦁 on the backend. Experience in creating user-friendly and visually appealing web applications 🌟
+<p>💼 Full-stack developer at Affable.ai, a startup specializing in Influencer Marketing Platforms</p>
+<p>I specialize in front-end development with Angular 🅰 and NestJS🦁 on the backend. Experience in creating user-friendly and visually appealing web applications 🌟</p>
 
 <h2 align="left">💌 Contact me:</h2>
 
