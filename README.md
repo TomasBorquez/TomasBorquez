@@ -16,9 +16,13 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/>
           <!-- <small>Javascript</small> -->
         </a>
-        <a href="https://reactjs.org/" target="_blank">
+        <a href="https://angular.io/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
           <!-- <small>Angular</small> -->
+        </a>
+         <a href="https://rxjs.dev/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" alt="rxjs" width="40" height="40"/>
+          <!-- <small>RxJS</small> -->
         </a>
         <a href="https://redux.js.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
