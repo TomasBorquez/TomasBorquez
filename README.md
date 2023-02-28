@@ -12,9 +12,9 @@
           <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="40" height="40"/>
           <!-- <small>Javascript</small> -->
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/>
-          <!-- <small>Javascript</small> -->
+          <!-- <small>Typescript</small> -->
         </a>
         <a href="https://angular.io/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
@@ -26,7 +26,7 @@
         </a>
         <a href="https://ngrx.io/" target="_blank">
           <img src="https://ngrx.io/assets/images/badge.svg" alt="redux" width="40" height="40"/>
-          <!-- <span>Redux</span> -->
+          <!-- <span>NgRx</span> -->
         </a>
       </p>
       <p align="center">    
@@ -50,9 +50,9 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
           <!-- <span>Express</span> -->
         </a>
-        <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <!-- <span>MySql</span> -->
+        <a href="https://nestjs.com/" target="_blank">
+        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" alt="mysql" width="40" height="40"/>
+          <!-- <span>NestJS</span> -->
         </a>
         <a href="https://www.postgresql.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
