@@ -77,7 +77,6 @@
           <!-- <span>Bootstrap</span> -->
         </a>
       </p>
-  <hr>
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
