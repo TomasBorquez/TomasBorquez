@@ -3,7 +3,7 @@
   <br>👨‍🚀Hello! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> I'm Tomas Borquez Full Stack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   <br>
-   <img src="https://media.licdn.com/dms/image/D4D16AQGO432MI_8qPA/profile-displaybackgroundimage-shrink_350_1400/0/1677362373185?e=1683158400&v=beta&t=8GzwK83qOcGbrP9zFLYpdixOHSFsVqDPqp6DJVO_Qpw" alt="Coder GIF" width="500">
+   <img src="https://media.licdn.com/dms/image/D4D16AQGO432MI_8qPA/profile-displaybackgroundimage-shrink_350_1400/0/1677362373185?e=1683158400&v=beta&t=8GzwK83qOcGbrP9zFLYpdixOHSFsVqDPqp6DJVO_Qpw" alt="Coder GIF" width="700">
    </abc>
 </h1>
   <h2>Skills</h2>
