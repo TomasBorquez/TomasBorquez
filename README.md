@@ -21,11 +21,11 @@
           <!-- <small>Angular</small> -->
         </a>
          <a href="https://rxjs.dev/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" alt="rxjs" width="40" height="40"/>
+          <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40"/>
           <!-- <small>RxJS</small> -->
         </a>
-        <a href="https://redux.js.org" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        <a href="https://ngrx.io/" target="_blank">
+          <img src="https://ngrx.io/assets/images/badge.svg" alt="redux" width="40" height="40"/>
           <!-- <span>Redux</span> -->
         </a>
         <a href="https://www.postgresql.org" target="_blank">
