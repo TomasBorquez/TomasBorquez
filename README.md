@@ -56,11 +56,7 @@
           <!-- <span>MongoDB</span> -->
         </a>
       </p>
-      <p align="center">      
-        <a href="https://sequelize.org/" target="_blank">
-          <img src="https://camo.githubusercontent.com/319ef78fa108fc000a838b6566c3dc6bb6f352c590661da03b50f1ce0d0db6d5/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f73657175656c697a652d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d326563353339" alt="sqlite" width="40" height="40"/>
-          <!-- <span>Sequelize</span> -->
-        </a>                                                                                                  
+      <p align="center">                                                                                                    
         <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
           <!-- <span>TailwindCSS</span> -->
