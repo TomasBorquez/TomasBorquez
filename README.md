@@ -5,10 +5,6 @@
 </h1>
   <h2>Skills</h2>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://camo.githubusercontent.com/7749a2014cc8da219d6b6ec5dac78c2cce719ce9499e2cdccd1482932779c08a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d6f726967696e616c2e7376673f73697a653d343026636f6c6f723d63757272656e74436f6c6f72" alt="JavaScript" width="40" height="40"/>
-          <!-- <small>Javascript</small> -->
-        </a>
         <a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/>
           <!-- <small>Typescript</small> -->
