@@ -65,7 +65,7 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-<p>💼 Full-stack developer at Bazaarvoice, a company related to Influencer Marketing Platforms</p>
+<p>💼 Full-stack developer currently looking for a job</p>
 <p>I specialize in front-end development with Angular 🅰 and NestJS🦁 on the backend. Experience in creating user-friendly and visually appealing web applications 🌟</p>
 
 <h2 align="left">📧 Contact me:</h2>
