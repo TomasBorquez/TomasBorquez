@@ -13,4 +13,4 @@
 
 <h2 align="left">📧 Contact me:</h2>
 
-### 📩 [E-Mail] tomasborquez13@gmail.com
+### tomasborquez13@gmail.com
