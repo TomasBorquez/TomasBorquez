@@ -7,9 +7,7 @@
 
 - 🌎 I'm from Argentina 🧉
 
-- 📝 Currently learning Go by building Open Source Stuff I find useful
-
-- 💼 Looking for a job
+- 📝 Currently working on my own startup/projects not looking for a job
 
 <h2 align="left">📧 Contact me:</h2>
 
