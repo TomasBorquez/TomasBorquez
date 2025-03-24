@@ -6,9 +6,8 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🌎 I'm from Argentina 🧉
-
-- 📝 Currently working on my own startup/projects not looking for a job
-
+- 📝 Not looking for a job
+- 
 <h2 align="left">📧 Contact me:</h2>
 
 ### tomasborquez13@gmail.com
