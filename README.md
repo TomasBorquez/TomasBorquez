@@ -1,6 +1,6 @@
 <p align="left">Hey, I'm Lewboski a Game Developer from Argentina</p>
 
-<p>Experience in <b>Systems Programming</b> and <b>Game Development</b> with <b>C/C++</b> and <b>Godot</b>. Specialized in gameplay programming and graphics. Contact me about any development positions at <b>tomasborquez13@gmail.com</b>
+<p>Experience in <b>Systems Programming</b> and <b>Game Development</b> with <b>C/C++</b> and <b>Godot</b>. Specialized in gameplay programming and graphics. Contact me about any developer positions at <b>tomasborquez13@gmail.com</b>
 
 <p>I create content about game development and systems programming on <a href="https://www.youtube.com/@Lewboskii" target="_blank" rel="noopener noreferrer">YouTube</a>.</p>
 
