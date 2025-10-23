@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="left">Hey, I'm Lewboski a Game Developer from Argentina</p>
 
-<!--
-**TomasBorquez/TomasBorquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Experience in <b>Systems Programming</b> and <b>Game Development</b> with <b>C/C++</b> and <b>Godot</b>. Specialized in gameplay programming and graphics. Contact me about any development positions at <b>tomasborquez13@gmail.com</b>
 
-Here are some ideas to get you started:
+<p>I create content about game development and systems programming on <a href="https://www.youtube.com/@Lewboskii" target="_blank" rel="noopener noreferrer">YouTube</a>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>As well as on my blog at <a href="https://lewboski.dev/" target="_blank" rel="noreferrer">lewboski.dev</a></p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> 
+</p>
