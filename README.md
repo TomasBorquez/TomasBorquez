@@ -1,8 +1,8 @@
 <p align="left">Hey, I'm Lewboski a Developer from Argentina</p>
 
-<p>Experience in <b>Systems Programming</b> and <b>Game Development</b> with <b>C/C++</b>. Specialized in gameplay programming and graphics as well as compilers, build systems and kernels. Contact me about any developer positions at <b>tomasborquez13@gmail.com</b>
+<p>Experience in <b>Systems Programming</b> and <b>Game Development</b> with <b>C/C++</b>. Specialized in compilers, build systems, kernels and even graphics programming. Contact me about any developer positions at <b>tomasborquez13@gmail.com</b>
 
-<p>I create content about game development and systems programming on <a href="https://www.youtube.com/@Lewboskii" target="_blank" rel="noopener noreferrer">YouTube</a>.</p>
+<p>I create content about systems programming at <a href="https://www.youtube.com/@Lewboskii" target="_blank" rel="noopener noreferrer">YouTube</a>.</p>
 
 <p>As well as on my blog at <a href="https://lewboski.dev/" target="_blank" rel="noreferrer">lewboski.dev</a></p>
 
