@@ -6,7 +6,5 @@
 
 <p>I create content about systems programming at <a href="https://www.youtube.com/@Lewboskii" target="_blank" rel="noopener noreferrer">YouTube</a>, as well as on my blog at <a href="https://lewboski.dev/" target="_blank" rel="noreferrer">lewboski.dev</a></p>
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> |
+|---|---|
